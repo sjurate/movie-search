@@ -1,5 +1,3 @@
-![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
-
 <br>
 
 ## 🌟 About
